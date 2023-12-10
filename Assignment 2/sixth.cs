@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_Ass2_Ques6
+namespace Lab_Ass2_Ques5
 {
     internal partial class Employee
     {
